@@ -1,0 +1,66 @@
+Package: legion-archive-keyring
+Architecture: all
+Version: 1
+Priority: optional
+Section: admin
+Maintainer: Legion <238981066+n3ur0-f4ll@users.noreply.github.com>
+Installed-Size: 1
+Filename: pool/legion-archive-keyring_1_all.deb
+Size: 1512
+MD5sum: 26929910973b365edc46d138b13affe4
+SHA1: 90267f1b6c142d32c1c1fee5dab635b1c1114697
+SHA256: 296672c8a1ee86a242331daf39eda928e49ad8b61ad661b92947e0b4f774eb21
+SHA512: 95720c9b5eea404571fe38a06461d1df376af175db57155a349d0130bdce47562d4a7146aa574a6455853a82a80cd0045388bc1b706f95212c7c54d7c6cd7fbf
+Description: signing key and apt source of the Legion package repository
+ The public key that signs the Legion package repository, and the apt
+ source that points to it. Packages from this repository are installed
+ with the other updates, with the administrator password.
+
+Package: legion-boot
+Architecture: all
+Version: 1
+Priority: optional
+Section: admin
+Maintainer: Legion <238981066+n3ur0-f4ll@users.noreply.github.com>
+Installed-Size: 3
+Provides: linux-initramfs-tool
+Depends: dracut-core, systemd-boot, systemd-cryptsetup, libfido2-1, linux-base, zstd
+Conflicts: initramfs-tools, dracut
+Filename: pool/legion-boot_1_all.deb
+Size: 3320
+MD5sum: bc9c84dfcd0bda0f3378aeaf84ab8c65
+SHA1: 0dd2949dd0b4cbba3f1b5968be46187f853df36a
+SHA256: c1e23297814972c8ac187557bf352633c9d4509d9a829fe820d62b8b50e78f4f
+SHA512: c44df2932118217a9a39476141a449041d740e056bb8df245eacd3061e937fc5d280112c16a88618984d0bec3c1645433189efb8f1a61274317fcc55afea49b7
+Description: boot setup of Legion: systemd-boot menu entries and a dracut initrd
+ Every kernel installed by apt gets a classic systemd-boot menu entry from
+ kernel-install, with an initrd built by dracut. The initrd runs systemd,
+ so it finds an encrypted root partition without root= or crypttab, and it
+ can unlock it with a FIDO2 security key.
+ .
+ When another package asks for a new initrd (the update-initramfs trigger,
+ for example after a microcode update), the newest kernel gets a new initrd
+ and menu entry. Older kernels stay untouched as a fallback. Boot counting
+ is on: after three failed starts of a new entry, systemd-boot goes back to
+ the previous kernel.
+
+Package: legion-test
+Architecture: all
+Version: 18
+Priority: optional
+Section: admin
+Maintainer: Legion <238981066+n3ur0-f4ll@users.noreply.github.com>
+Installed-Size: 26
+Recommends: alsa-utils, iw, rfkill, bluez, v4l-utils
+Filename: pool/legion-test_18_all.deb
+Size: 9700
+MD5sum: 3eb694ae506b1911153bf316b8825bc4
+SHA1: 4d561bda267bd05aaa4b84b20ecef0d85608ec83
+SHA256: b9596e7e18c4ddaec9d057321f28bcdf9a1dd2854c057786f01096a37d26f8a5
+SHA512: a1ac9ef61c93fa01aa9567574e30c3784414d6745b864aa5ea74b4ed9c080ae5d4e9e51f632deb24edf44c4a0644368c16b9000689cf73f0fb2d5f0b1805a8f2
+Description: collects Legion test results on this computer
+ legion-test reads the state of the system and of the hardware and writes a
+ report and a summary to /var/tmp/legion-test/. It does not change the
+ system. It does not read serial numbers, and it masks MAC addresses and
+ Wi-Fi network names.
+

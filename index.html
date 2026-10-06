@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Legion packages</title>
+  <style>
+    body { font-family: sans-serif; max-width: 48rem; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; color: #1a1a1a; background: #fff; }
+    @media (prefers-color-scheme: dark) { body { color: #e6e6e6; background: #141414; } code, pre { background: #262626; } }
+    pre, code { background: #f2f2f2; padding: 0.1rem 0.3rem; overflow-x: auto; }
+    pre { padding: 0.8rem; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { text-align: left; padding: 0.3rem 0.6rem 0.3rem 0; vertical-align: top; }
+  </style>
+</head>
+<body>
+  <h1>Legion packages</h1>
+  <p>This is the signed APT repository of Legion, a system based on Debian 13 (trixie).
+  Legion uses it by itself: the <code>legion-archive-keyring</code> package adds the key
+  and the source below, and updates come with the other system updates.
+  The packages change how a system boots, so the repository is not meant for other Debian systems.</p>
+  <h2>Source</h2>
+  <pre>Types: deb
+URIs: https://n3ur0-f4ll.github.io/legion-apt/
+Suites: ./
+Signed-By: /usr/share/keyrings/legion-archive-keyring.pgp</pre>
+  <p>Signing key (Ed25519): <a href="legion-archive-keyring.pgp">legion-archive-keyring.pgp</a><br>
+  Fingerprint: <code>7437 7574 07B0 6F04 C5AB F7A0 62AD 7C19 46E4 AB44</code></p>
+  <h2>Packages</h2>
+  <table>
+    <thead><tr><th>Package</th><th>Version</th><th>Description</th></tr></thead>
+    <tbody>
+      <tr><td>legion-archive-keyring</td><td>1</td><td>signing key and apt source of the Legion package repository</td></tr>
+      <tr><td>legion-boot</td><td>1</td><td>boot setup of Legion: systemd-boot menu entries and a dracut initrd</td></tr>
+      <tr><td>legion-test</td><td>18</td><td>collects Legion test results on this computer</td></tr>
+    </tbody>
+  </table>
+</body>
+</html>
