@@ -2,31 +2,31 @@
 Hash: SHA512
 
 Acquire-By-Hash: yes
-Date: Tue, 06 Oct 2026 14:36:40 +0000
+Date: Tue, 06 Oct 2026 17:25:50 +0000
 Description: Legion packages
 Label: Legion
 Origin: Legion
 MD5Sum:
- 10ef8130812950f09b553395c1c33efc             3024 Packages
- 36b657c389b6a425a5b6f7d25ba48d9c             1530 Packages.gz
- fe08742848265048858daea6d6d84e50             1612 Packages.xz
+ 51b7b7a2816e5876498e054ba44d54a0             5086 Packages
+ 9d2601700362932fb04df022a825b675             2233 Packages.gz
+ f6c6ee2d92c1507b2969cc384aa9c46b             2264 Packages.xz
 SHA1:
- f142f368b97286cfdf908431c57e4b5396aa7fc9             3024 Packages
- c74daf3706fa1c03b7272188d3a6b1c2c014ca30             1530 Packages.gz
- 60b96700d66c322f53442b471e3f1d510dbbeab8             1612 Packages.xz
+ 02a62cd4e3408f27ac361e65a192ae6e5a247b81             5086 Packages
+ 7aa1e04819695b81c9161879f4b8689ae882c21f             2233 Packages.gz
+ abcc8c0ab5cb1b2d1c8f105020a424297ffddfec             2264 Packages.xz
 SHA256:
- 738fce2a431150c9150c086e4f2e36caa02d30a0468acffa3d590af3f9640486             3024 Packages
- 2bddb061d207cb3ea2c44c2a1fe301d0fd2066ce9d4db50f10b05c4f97db2a86             1530 Packages.gz
- b78c001ef84d2c9b4402ab37cf592b8058ed787a579f9dbd6e555e2c0bdd6225             1612 Packages.xz
+ 466ce2db325627b97a8cf3523551a48c99e45b927fdba4d191001b9aaae7b7f4             5086 Packages
+ 8b0ade40539eda1e5273aff88d9bf198cfed0c33042af25554b7558bdb28fc10             2233 Packages.gz
+ 68cc91b20831611b92dc6e9d0192249941afde0a7bf4af826f4f49c9c9c6e28f             2264 Packages.xz
 SHA512:
- 52c990d1e2b36e7caecd7eb20a6d6331a4c963129a8ac782e459fe0cefda78b8581e945029fd9b1d1a3ce901387317e7ff9b5416f5b701d5b184ee8c09e4721e             3024 Packages
- 0ef2771b7611be64c7c3d6566fb21a1b6202031e8cc20a8f6bb975d818ab1a712cc89d64962d4c2e72ba6c059f74dbd66a44fd0329cc44e0aca86900c7488caa             1530 Packages.gz
- e74a256e79b0fcdb6aa80ca0975637fd012f15fb209ef087af52c77abd3519acd897be458401e42ab145cee5e2c83f04f8edd86767a3b08877ad8a70d1fc9e81             1612 Packages.xz
+ a145900742d31a4d20cb6f690780e9c52f3f1ab718059e1ff79dba776cad919486ab156ef148e9ceaa635dedb3b57fde6b3590aa6f442e6864785c340dc07805             5086 Packages
+ ecf9194dc8e30ab757011ffb12b6df67dc94a731728ecafac3f7c15871921de07a4b59684d51c0b07d272041f0adc26481dc892d91c23428097ea2697ff1b12a             2233 Packages.gz
+ 1d2a65f191a25028f78c17ce84333115671010bcf76533f831c5b8cd738bb48fc7888e5ff8ef6d28cc2c09170cd8a11723882e04d1895066c07c61834644c51c             2264 Packages.xz
 
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQR0N3V0B7BvBMWr96BirXwZRuSrRAUCasUHeAAKCRBirXwZRuSr
-RPWqAQCY+NH7tszhc8sZoDwAzY9nUlGVCPMukZBqwLfMsaVM3AEA8rJvFIYIs8VX
-KvM+0RpV1Atyp5WY5Qc7nsOs07sLKAE=
-=WLQm
+iHUEARYKAB0WIQR0N3V0B7BvBMWr96BirXwZRuSrRAUCasUvHgAKCRBirXwZRuSr
+RHuKAPwMGG1Aaip/eI/ovIZXxA/ZyXD/en6ItMjlYtC+k1A0jwD/T/Zgnn1o+uzv
+AcetfkI/o2+r5qXpvUjfhLzT4CZkMQ8=
+=dwaJ
 -----END PGP SIGNATURE-----
