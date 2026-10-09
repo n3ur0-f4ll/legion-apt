@@ -2,31 +2,31 @@
 Hash: SHA512
 
 Acquire-By-Hash: yes
-Date: Thu, 08 Oct 2026 18:06:03 +0000
+Date: Fri, 09 Oct 2026 09:51:53 +0000
 Description: Legion packages
 Label: Legion
 Origin: Legion
 MD5Sum:
- b7623683284bc80c36f92cdaa70e8df9            24727 Packages
- edb1afd1a598a81eec88f084f99f6ed6             7900 Packages.gz
- a71c11bac3ae034dd6f30a4ca60ab396             7352 Packages.xz
+ 46bf3c4f7a7ad9cc7f569aa10735e4b5            25088 Packages
+ 2430079f1d0afc57895869bd3a3d486f             7833 Packages.gz
+ 353b80117b0098fb17326add7b88c2f4             7296 Packages.xz
 SHA1:
- cebeb2967ab2e073363e6d8ac110a99b077b2a7a            24727 Packages
- 3b770e0145280135a1cef7e7174325737d097af1             7900 Packages.gz
- bccd2a4a645b5d65ee543a6a7c0a8ca98651e919             7352 Packages.xz
+ ac3246c326fdc3459fbf26750cd2f68730519f4c            25088 Packages
+ 4a531b4f9c0e9eed02dd9babe15d9b2520327e77             7833 Packages.gz
+ 9204fa2e67a6f045ec2a841bce4b1a913be827e0             7296 Packages.xz
 SHA256:
- 207a2b79688a10c563a3512cc27cde77eee4cd49f09ae8083e883c3d8f00014f            24727 Packages
- 39b94c609a01f0a2202c4b7656f76380b9aaddd28b94e7f40b7f271c4431f2e3             7900 Packages.gz
- eba9a4798545da745fed0e58e0c537c27c4760ec0228e34187e117b140b03ed4             7352 Packages.xz
+ 5f2d6d88a81d218ea348d8405d8773a1c543071386f40b278f0ede51f58b61ab            25088 Packages
+ 11066d21d6128cdc562115dc6488b2f335c5100255914d66c0fdb53853e2e6c5             7833 Packages.gz
+ e9fb33087cdc960325970b71e1d314bedab31e876936866cd096bfaa9698f1e1             7296 Packages.xz
 SHA512:
- 9d0a6ad3c3938b83c6ac5d15611a16f72b43b0e0a480cef98fd032b1211045262e65105d4c584c4af2355c8d203b9afb128e95bf645c0a6ca3aa4b3f8413f739            24727 Packages
- fb70b191e22e4950fe1058605c99d71551b11ff781c05bcb8e12d217d76e83f7c08fd4faca4cf58657a7d0966e14d780d8168453d7db2034cfa84587948b4826             7900 Packages.gz
- 7fecffe00e66c24142b75cdc948cb4db091e8c5b304fe91402ddc193c2a83f7217238da6dc3aa7d5e3745c37b0fa8e945ecc2349c68a0ed3b98a5a2dc8327e5f             7352 Packages.xz
+ c16b8c7c8859f891cfc07840cbd3ccc15f02b41fca0c8e948d9430b02da8698f54273a4069e2e5ddf4c392192f482a60d46ad30a2fbce5a26c6ea373b780da04            25088 Packages
+ 295324343e86a6b473ad54c0262ca179e869c03ea11993aaa5596024aac7838b3bf63c20da08104ca643f281919a011f3375a4ecc90005471ddde273f5079fdb             7833 Packages.gz
+ 410316a10fe68a6d345f25fa830a9ebd4ddc53d4d2586d1d8f591ba6a743d84827c603171bd0d718ff2e1390890ff002e7a6caee0ab9129f2d075ff1b473ddf4             7296 Packages.xz
 
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQR0N3V0B7BvBMWr96BirXwZRuSrRAUCasfbiwAKCRBirXwZRuSr
-RB0zAP9VU0EEOJTNpTqD5DcJ+hqfs7/lzD3nSXqdhcNpnXplWgEAqlrERqHroIZR
-2CtfEtoqII6t3cvfPjt2LFyrkDRn8QI=
-=VTlm
+iHUEARYKAB0WIQR0N3V0B7BvBMWr96BirXwZRuSrRAUCasi5OQAKCRBirXwZRuSr
+RKvIAQCVHp6rAZW5grV2+WWF5VvNpbieG3arzQowMeTo+vBwowD/Qcl0IXsT1oFk
+H6x6FsV2hyFxNqTJlK2+1PC3+ZYUCQo=
+=qnbC
 -----END PGP SIGNATURE-----
