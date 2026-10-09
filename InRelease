@@ -2,32 +2,32 @@
 Hash: SHA512
 
 Acquire-By-Hash: yes
-Date: Fri, 09 Oct 2026 21:49:23 +0000
+Date: Fri, 09 Oct 2026 22:16:16 +0000
 Description: Legion packages
 Label: Legion
 Origin: Legion
 Suite: legion
 MD5Sum:
- 13c359c6523eb2aeb5b560929bd3f45f            30355 Packages
- 56360832448bf9a87e6d42acc48f893d             9129 Packages.gz
- 08e872f712904f0ef2ae6e164b8b1f0b             8412 Packages.xz
+ ddc1d2c6f38aa32daaf491a3910737bc            30513 Packages
+ 621dab6a007aa82473b7e789061566ad             9090 Packages.gz
+ 0154b83333e44e8dda06807b76277d3a             8380 Packages.xz
 SHA1:
- 97f28c0639e7e71adf8c126bc81877efe0c54762            30355 Packages
- 1e8e84dddb77952966d8614fc55bd9e046852939             9129 Packages.gz
- 7119d5bf5b2a924eb8745286fe6c0e944366c60d             8412 Packages.xz
+ 9edbce3994a2f6a0ee3d496b3efc4e70d64c7f4b            30513 Packages
+ beaf775e84cba6aacc69c962e6239f689a731837             9090 Packages.gz
+ 57ba8ade5d2ead3655050cc281a1427239516e98             8380 Packages.xz
 SHA256:
- 37ee90dc51e69b757c59345ddf211674e4d692ea19766b8876aea728970fc848            30355 Packages
- 834af5b6a7fad3f3caa7fce94ec2c3047333a497f4f43ef71781eb9deb0557b2             9129 Packages.gz
- 0e193eb3795878573474855fd65d874977d8b0f2c8d850ffed2cbfea39a7bc9e             8412 Packages.xz
+ 0c0688dceb33d18085dd6733d05e7ccf3eddba9f0b9545543a85170983485208            30513 Packages
+ b876bd91175fa23a2febe3368e8258e97f2598023c0d24c83569b206d11436b3             9090 Packages.gz
+ 013f4b97d49a7e3f9ecc1be0762924b9814409005e7eac45b15df0527a055da4             8380 Packages.xz
 SHA512:
- 152267f7d72085e7a47c305bb439265ad891b0a6845c30481c2c214943ffb2ce1d43403d31942638c0486abe49376120e929ef2d5627980c9520647d9cf40cbc            30355 Packages
- 614df55ad525d7cd61885774c317c613cc6748e8471eaa8dc9e21ac5e904441023e28c78fcf48b2ff9c00a851ca043239400ce194139dfbf458b242f28c58322             9129 Packages.gz
- ee1422697f38b9821725ffed846ecc194dc1419dd4e4ab71d85b77b9f2978f06bdc3cc17f1970191a666436f475be9a4ebc4187ea2d38a405e029a7bb40525f4             8412 Packages.xz
+ b87793f28eebbd803a0a08eb4faff53d22daf7561a7d61c7f726c813c47df9f8b9c8b2a067cdcd600366ffe39d24a7864e545725fde08d489da8458fa27482e5            30513 Packages
+ af545cd3dd59f65dd4761a702cffd310d306b1d85dd25ba67304543191e388a0787ca186ea93bbec9e516f56c499b70d9dd45dc01606bcc217dd6d3ce9e96307             9090 Packages.gz
+ a573b039f6a1a816b038f90d85dddd611a15b6c4b5a8e223f3d885dd32c32e192031e128a5ec5e8578f6f01e75ca2d211a6d0f29b4ff22944314b7fe01374867             8380 Packages.xz
 
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQR0N3V0B7BvBMWr96BirXwZRuSrRAUCaslhYwAKCRBirXwZRuSr
-RBVSAP9a22Ms2DhSrY2FGkVe3Do5WFN3njZ29aFThC2GT1EMqQEAgxet1t+p82wd
-zovHoZqTflLzxt2LggNFIZ73oSAacws=
-=Vd3O
+iHUEARYKAB0WIQR0N3V0B7BvBMWr96BirXwZRuSrRAUCaslnsAAKCRBirXwZRuSr
+RJPVAQCeiQsnYJe1bkkaTDSCJ8W+/7tjzz1upZzvSQaPyxSBAgEAs69nH9AusPqm
+RCJaZS1dwrsl367J5Bg027Mw+fPOHAA=
+=kEwM
 -----END PGP SIGNATURE-----
