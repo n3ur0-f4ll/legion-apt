@@ -1,22 +1,22 @@
 Acquire-By-Hash: yes
-Date: Fri, 09 Oct 2026 19:51:03 +0000
+Date: Fri, 09 Oct 2026 21:49:23 +0000
 Description: Legion packages
 Label: Legion
 Origin: Legion
 Suite: legion
 MD5Sum:
- 64a3fbf71cee80b6d88264ba9cd4af60            28306 Packages
- 026f07480972a9277193d9e137e8865e             8701 Packages.gz
- a7a1e25d2e7beb98f274114a6d9f2f2d             8068 Packages.xz
+ 13c359c6523eb2aeb5b560929bd3f45f            30355 Packages
+ 56360832448bf9a87e6d42acc48f893d             9129 Packages.gz
+ 08e872f712904f0ef2ae6e164b8b1f0b             8412 Packages.xz
 SHA1:
- c062365b2eff02f4b4ce94ba213fb87963a819fa            28306 Packages
- 3d67faf6db23f36dcc85fb2c4d68c776b8a797c7             8701 Packages.gz
- 56da068778517a6025f91e0b2755779811838a98             8068 Packages.xz
+ 97f28c0639e7e71adf8c126bc81877efe0c54762            30355 Packages
+ 1e8e84dddb77952966d8614fc55bd9e046852939             9129 Packages.gz
+ 7119d5bf5b2a924eb8745286fe6c0e944366c60d             8412 Packages.xz
 SHA256:
- a074b3f5a8d4faa367ea9f3ebd844507dc44789cba235dd7e4cb382a274c2c03            28306 Packages
- 6d8d81f3d64f2b1675c901c239cdad811829eb5b56e059cf6dd1e6c41e97978a             8701 Packages.gz
- b8dfe7f158829855da58da72e8361904ab81d149f49fd3c19bf6f0d8ff8b4fb0             8068 Packages.xz
+ 37ee90dc51e69b757c59345ddf211674e4d692ea19766b8876aea728970fc848            30355 Packages
+ 834af5b6a7fad3f3caa7fce94ec2c3047333a497f4f43ef71781eb9deb0557b2             9129 Packages.gz
+ 0e193eb3795878573474855fd65d874977d8b0f2c8d850ffed2cbfea39a7bc9e             8412 Packages.xz
 SHA512:
- b592ec8ef39dd0b8ec424429cb69a707d21f78f7d1e1dddbeddb11b645aa07b0105f8ebb748f214f3e989885be1d55c7314cf3bacd1fe100fae3c4fa77583f3d            28306 Packages
- c6fa0e78e3f0be7226a2cb2abc6d6c91673f98743c8ca17fd7c2f268999584e519d3b731c1dcc68aa98ba7dbe0f4d4b83a45bd031a42bfb4bdeca3103c99c9a5             8701 Packages.gz
- 8e970d6d3afd0cd8cb555a14ab8fe7d087dbd6799b5384a49cdfce64384c0b88a60a157bb37adb02542fedaae03fc72d417da127fa6094435e3c429cb14058c6             8068 Packages.xz
+ 152267f7d72085e7a47c305bb439265ad891b0a6845c30481c2c214943ffb2ce1d43403d31942638c0486abe49376120e929ef2d5627980c9520647d9cf40cbc            30355 Packages
+ 614df55ad525d7cd61885774c317c613cc6748e8471eaa8dc9e21ac5e904441023e28c78fcf48b2ff9c00a851ca043239400ce194139dfbf458b242f28c58322             9129 Packages.gz
+ ee1422697f38b9821725ffed846ecc194dc1419dd4e4ab71d85b77b9f2978f06bdc3cc17f1970191a666436f475be9a4ebc4187ea2d38a405e029a7bb40525f4             8412 Packages.xz
